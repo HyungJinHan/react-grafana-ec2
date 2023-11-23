@@ -4,17 +4,17 @@ const baseUrl = process.env.REACT_APP_EC2_IP;
 function App() {
   const iframeItems = [
     {
-      src: `${baseUrl}/d-solo/ce979670-fbbf-4f27-9a17-e16d14468274/odn-ec2-grafana-test?orgId=1&from=1672498800000&to=1704034799999&panelId=3`,
+      src: `http://ec2-15-165-102-138.ap-northeast-2.compute.amazonaws.com:3000/d-solo/ce979670-fbbf-4f27-9a17-e16d14468274/odn-ec2-grafana-test?orgId=1&from=1672498800000&to=1704034799999&panelId=3`,
       title: "odn-grafana",
       className: "clock",
     },
     {
-      src: `${baseUrl}/d-solo/ce979670-fbbf-4f27-9a17-e16d14468274/odn-ec2-grafana-test?orgId=1&from=1672498800000&to=1704034799999&panelId=2`,
+      src: `http://ec2-15-165-102-138.ap-northeast-2.compute.amazonaws.com:3000/d-solo/ce979670-fbbf-4f27-9a17-e16d14468274/odn-ec2-grafana-test?orgId=1&from=1672498800000&to=1704034799999&panelId=2`,
       title: "odn-grafana",
       className: "graph",
     },
     {
-      src: `${baseUrl}/d-solo/ce979670-fbbf-4f27-9a17-e16d14468274/odn-ec2-grafana-test?orgId=1&from=1672498800000&to=1704034799999&panelId=1`,
+      src: `http://ec2-15-165-102-138.ap-northeast-2.compute.amazonaws.com:3000/d-solo/ce979670-fbbf-4f27-9a17-e16d14468274/odn-ec2-grafana-test?orgId=1&from=1672498800000&to=1704034799999&panelId=1`,
       title: "lift-grafana",
       className: "graph",
     },
