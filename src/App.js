@@ -1,5 +1,5 @@
 import "./App.css";
-const baseUrl = process.env.REACT_APP_EC2_IP;
+// const baseUrl = process.env.REACT_APP_EC2_IP;
 
 function App() {
   const iframeItems = [
