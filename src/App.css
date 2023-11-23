@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  align-items: stretch;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.clock {
+  width: 98%;
+  height: 15.625rem;
+  align-self: center;
+  margin-top: 0.625rem;
+}
+
+.graph {
+  width: 49%;
+  height: 31.25rem;
+}
+
+iframe {
+  border-radius: 10px;
+  border: 0;
+}
