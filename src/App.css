@@ -29,6 +29,7 @@
   width: 50%;
   height: 15.625rem;
   align-self: center;
+  overflow: scroll;
 }
 
 .big {
