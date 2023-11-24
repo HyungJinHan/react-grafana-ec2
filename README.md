@@ -50,6 +50,8 @@ allow_embedding = true
 >
 > ssh 서버(`ubuntu`) 환경에서 진행
 >
+> https://gist.github.com/woorim960/dda0bc85599f61a025bb8ac471dfaf7a -> 참고 예정
+>
 > ~~결론 : 뻘짓~~
 
 ### 인증서 키 발급
