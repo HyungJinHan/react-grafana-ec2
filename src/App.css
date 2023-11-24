@@ -14,16 +14,17 @@
   color: #61dafb;
 }
 
-.clock {
-  width: 98%;
+.small-chart {
+  width: 49%;
   height: 15.625rem;
   align-self: center;
-  margin-top: 0.625rem;
+  margin: 0.625rem 0.3125rem 0 0.3125rem;
 }
 
-.graph {
+.big-chart {
   width: 49%;
   height: 31.25rem;
+  margin: 0.3125rem 0.3125rem 0 0.3125rem;
 }
 
 iframe {
