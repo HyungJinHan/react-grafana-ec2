@@ -5,26 +5,35 @@
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
-  align-items: stretch;
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.container {
+  width: 99%;
+  align-self: center;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
 }
 
-.small-chart {
-  width: 49%;
+.readme {
+  width: 100%;
+  height: 31.25rem;
+  align-self: center;
+  margin-top: 0.625rem;
+  overflow: scroll;
+}
+
+.small {
+  width: 50%;
   height: 15.625rem;
   align-self: center;
-  margin: 0.625rem 0.3125rem 0 0.3125rem;
 }
 
-.big-chart {
-  width: 49%;
+.big {
+  width: 50%;
   height: 31.25rem;
-  margin: 0.3125rem 0.3125rem 0 0.3125rem;
 }
 
 iframe {
