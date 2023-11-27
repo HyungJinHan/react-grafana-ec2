@@ -117,4 +117,10 @@ cert_key = /저장된/key/경로/grafana.key
 
 ### AWS Managed Grafana (인증 필요)
 
+> 추가적으로 iframe embed 가능 여부 체크 진행 중
+
+- IAM 사용자로 추가되어 있어야 인증이 가능
+
+  - 현재 필자만 추가되어 있음
+
 **[ODN Dashboard](https://g-fd23aacbb5.grafana-workspace.us-east-1.amazonaws.com/d/SSqT0dNIz/odn-dashboard?orgId=1)**
