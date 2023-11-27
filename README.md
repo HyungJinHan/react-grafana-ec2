@@ -114,3 +114,7 @@ cert_key = /저장된/key/경로/grafana.key
 ### 결론
 
 <span style="background-color: #FF0000; color: black; padding-left: 5px; padding-right: 5px; font-size: 15px">**~~개같이 멸망~~**</span>
+
+### AWS Managed Grafana (인증 필요)
+
+**[ODN Dashboard](https://g-fd23aacbb5.grafana-workspace.us-east-1.amazonaws.com/d/SSqT0dNIz/odn-dashboard?orgId=1)**
