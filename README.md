@@ -123,4 +123,4 @@ cert_key = /저장된/key/경로/grafana.key
 
   - 현재 필자만 추가되어 있음
 
-**[ODN Dashboard](https://g-fd23aacbb5.grafana-workspace.us-east-1.amazonaws.com/d/SSqT0dNIz/odn-dashboard?orgId=1)**
+**[📑 ODN Dashboard](https://g-fd23aacbb5.grafana-workspace.us-east-1.amazonaws.com/d/SSqT0dNIz/odn-dashboard?orgId=1)**
